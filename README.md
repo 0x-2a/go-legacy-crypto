@@ -4,7 +4,7 @@ A home for legacy crypto algorithms in Go, which are not in go crytpo or x/crypt
 
 ## Contributing
 
-Please provide a reference implementations as they are becoming difficult to find.
+Open an issue/PR if you'd like to see more algorithms. Please provide links to publications, reference implementations, etc.
 
 ## Install:
 
