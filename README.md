@@ -1,1 +1,1 @@
-# go-crypto-legacy
+# go-legacy-crypto
