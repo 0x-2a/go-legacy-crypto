@@ -9,7 +9,10 @@ Please provide a reference implementations as they are becoming difficult to fin
 ## Install:
 
 ```sh
-go get github.com/y3sh/go-legacy-crypto
+go get -u  github.com/y3sh/go-legacy-crypto/ripemd320
+go get -u  github.com/y3sh/go-legacy-crypto/whirlpool
+go get -u  github.com/y3sh/go-legacy-crypto/skipjack32
+go get -u  github.com/y3sh/go-legacy-crypto/...
 ```
 
 ## Test
