@@ -6,7 +6,7 @@ A home for legacy crypto algorithms in Go, which are not in go crytpo or x/crypt
 
 Please provide a reference implementations as they are becoming difficult to find.
 
-Install:
+## Install:
 
 ```sh
 go get github.com/y3sh/go-legacy-crypto
